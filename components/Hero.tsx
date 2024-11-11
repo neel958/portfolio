@@ -40,7 +40,7 @@ const Hero = () => {
             words="Welcome to my Next.js Portfolio"
           />
           <p className="text-center tracking-wider mb-4 text-sm ">
-            Hi, I&apos;m Naël, a React developper based in France
+            Hi, I&apos;m Naël, a fullstack developper based in France
           </p>
           <a href="#about">
             <MagicButton
